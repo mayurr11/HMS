@@ -1,11 +1,11 @@
 import { Routes, Route } from "react-router-dom";
 import AdminLayout from "../layouts/AdminLayout";
-import Dashboard from "../pages/Admin/Dashboard";
-import ManageDoctors from "../pages/Admin/ManageDoctors";
-import ManagePatients from "../pages/Admin/ManagePatients";
-import ManageAppointments from "../pages/Admin/ManageAppointments";
-import Profile from "../pages/Admin/Profile";
-import Settings from "../pages/Admin/Settings";
+import Dashboard from "../pages/admin/Dashboard";
+import ManageDoctors from "../pages/admin/ManageDoctors";
+import ManagePatients from "../pages/admin/ManagePatients";
+import ManageAppointments from "../pages/admin/ManageAppointments";
+import Profile from "../pages/admin/Profile";
+import Settings from "../pages/admin/Settings";
 
 function AdminRoutes() {
   return (

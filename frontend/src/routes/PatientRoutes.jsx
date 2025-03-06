@@ -1,12 +1,12 @@
 import { Routes, Route } from "react-router-dom";
 import PatientLayout from "../layouts/PatientLayout";
-import Dashboard from "../pages/Patient/Dashboard";
-import BookAppointment from "../pages/Patient/BookAppointment";
-import AppointmentDetails from "../pages/Patient/AppointmentDetails";
-import MedicalHistory from "../pages/Patient/MedicalHistory";
-import Prescriptions from "../pages/Patient/Prescriptions.jsx";
-import Profile from "../pages/Patient/Profile";
-import Settings from "../pages/Patient/Settings";
+import Dashboard from "../pages/patient/Dashboard";
+import BookAppointment from "../pages/patient/BookAppointment";
+import AppointmentDetails from "../pages/patient/AppointmentDetails";
+import MedicalHistory from "../pages/patient/MedicalHistory";
+import Prescriptions from "../pages/patient/Prescriptions.jsx";
+import Profile from "../pages/patient/Profile";
+import Settings from "../pages/patient/Settings";
 
 function PatientRoutes() {
   return (

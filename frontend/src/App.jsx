@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
-import LandingPage from "./pages/Public/LandingPage";
-import LoginPage from "./pages/Public/LoginPage";
-import RegisterPage from "./pages/Public/RegisterPage";
+import LandingPage from "./pages/public/LandingPage";
+import LoginPage from "./pages/public/LoginPage";
+import RegisterPage from "./pages/public/RegisterPage";
 import AdminRoutes from "./routes/AdminRoutes";
 import DoctorRoutes from "./routes/DoctorRoutes";
 import PatientRoutes from "./routes/PatientRoutes";
